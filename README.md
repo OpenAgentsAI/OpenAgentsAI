@@ -6,11 +6,15 @@ At OpenAgents AI, we are at the forefront of blockchain innovation, harnessing t
 ## Challenges
 
 ⚫️ Fragmented Payment Ecosystem
+
 ⚫️ Complex Automation Systems
+
 ⚫️ Scalability and Reliability Constraints
 
 ## Solutions
 
 ⚪️ Unified Agentic Payments Platform
+
 ⚪️ Smart Workflow Automation
+
 ⚪️ Advanced Infrastructure for Scalability
