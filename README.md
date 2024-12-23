@@ -17,4 +17,4 @@ At OpenAgents AI, we are at the forefront of blockchain innovation, harnessing t
 
 ⚪️ Smart Workflow Automation
 
-⚪️ Advanced Infrastructure for Scalability
+⚪️ Advanced Infrastructure for Scalability-
